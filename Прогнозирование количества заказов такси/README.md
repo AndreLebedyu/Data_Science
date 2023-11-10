@@ -10,11 +10,11 @@
 Значение метрики RMSE на тестовой выборке должно быть не больше 48.
 
 ## Используемые библиотеки
-CatBoost
-Scikit-learn
-Statsmodels
-Pandas
-Matplotlib
+- CatBoost
+- Scikit-learn
+- Statsmodels
+- Pandas
+- Matplotlib
 
 ## Результаты
 Произведён исследовательский анализ данных
