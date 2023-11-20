@@ -8,7 +8,6 @@
 
 ## Используемые библиотеки
 - NLTK
-- tf-idf
 - Catboost
 - Sclearn
 - Pandas
